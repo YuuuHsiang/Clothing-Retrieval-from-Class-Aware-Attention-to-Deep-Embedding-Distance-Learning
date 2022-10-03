@@ -41,7 +41,7 @@ The dataset on the local side is divided into Train, Query and Gallery sets.
 Each set contains a category folder, and below it contains a image id folder, and the bottom of the image id folder is the image location.
 As shown in below:
 
-mermaid
+```
   Train
       Category 1;
            .
